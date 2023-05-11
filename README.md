@@ -17,7 +17,7 @@ This is an IMDb clone website. It has some features as listed below.
 
 2. Move to htdocs folder and clone repository
 ```console
-git clone ""
+git clone "https://github.com/Ishita056/WPL.git"
 ```
 3. You are all set to go
 
