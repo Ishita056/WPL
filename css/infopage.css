@@ -1,0 +1,75 @@
+body{
+    background-color: #0e0b16;
+}
+.topnav{
+    /* background-color: #181324; */
+    background-color:#181326;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0px;
+    right: 0;
+    height: 55px;
+    /* margin-left: 60px; */
+}
+
+#logo{
+    float: left;
+    height: 35px;
+    margin-left: 18px;
+    margin-top: 11px;
+}
+
+#navbtn {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 19px 25px;
+    text-decoration: none;
+    font-size: 19px;
+  }
+
+#navbtn:hover {
+    /* background-color: #e7dfdd; */
+    background-color: #f4c518;
+    color: black;
+}
+
+#menubtn{
+    float: left;
+    margin-left: 18px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 19px 25px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+#menubtn:hover{
+    /* background-color: #1c1829; */
+    background-color: #0e0b16;
+    color: #ddd;
+}
+
+#search-bar input{
+    float: left;
+    /* position: fixed; */
+    margin-left: 18px;
+    margin-top: 12px;
+    height: 30px;
+    width: 650px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+#search-icon{
+    position: absolute;
+    margin-top: 16px;
+    margin-left: 1px;
+    /* height: 30px; */
+    font-size: larger;
+    color: #ddd;
+    background:#181326;
+    border: none;
+}
