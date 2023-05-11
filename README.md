@@ -14,7 +14,7 @@ This is an IMDb clone website. It has some features as listed below.
 
 ## Installation and Setup
 
-1. Install [XAMPP](https://www.apachefriends.org/download.html) on you machine
+1. Install [XAMPP](https://www.apachefriends.org/download.html) on your machine
 
 2. Move to htdocs folder and clone repository
 ```console
